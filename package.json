@@ -51,7 +51,7 @@
 		"@babel/preset-react": "^7.9.4",
 		"express": "4.16.2",
 		"mdi": "2.2.43",
-		"normalize-scss": "7.0.0",
+		"normalize-scss": "7.0.1",
 		"react": "16.13.1",
 		"react-dom": "16.2.1"
 	}
